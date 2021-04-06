@@ -1,0 +1,25 @@
+  #navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: auto;
+    width: 100%;
+    background-color: lightgray;
+}
+#topMenu {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    margin-right: 15px;
+}
+.jumbotron {
+    background-image: url("../img/biglogo.jpg")
+}
+.news {
+    display: flex;
+    padding:10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
