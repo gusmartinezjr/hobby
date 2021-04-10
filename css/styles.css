@@ -23,3 +23,19 @@
     align-items: center;
     justify-content: space-between;
 }
+.container {
+    width: 500px;
+    padding:40px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 50px;
+}
+.newsGrid{
+    width: 600px;
+    padding:40px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 50px;
+}
